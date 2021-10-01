@@ -31,6 +31,7 @@ Top mobile application development resources that most of every developer needs.
 | Language or Technology  | Description |
 | ------------- | ------------- |
 | [React Native](https://reactnative.dev/)  |  React Native is an open-source UI software framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities.  |
+| [Flutter](https://flutter.dev/)  |  Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase. First described in 2015, Flutter was released in May 2017.  |
 
 
 ## Other resources
