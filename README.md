@@ -1,7 +1,7 @@
 # top-mobile-app-development-resources
 Top mobile application development resources that most of every developer needs.
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./CONTRIBUTING.md)
@@ -55,7 +55,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/deelaka1019"><img src="https://avatars.githubusercontent.com/u/57798902?v=4" width="100px;" alt=""/><br /><sub><b>deelaka-1</b></sub></a><br /><a href="https://github.com/deelaka1019/top-mobile-app-development-resources/commits?author=deelaka1019" title="Documentation">📖</a> <a href="#ideas-deelaka1019" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/deelaka1019/top-mobile-app-development-resources/pulls" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="http://www.uwu.ac.lk"><img src="https://avatars3.githubusercontent.com/u/37569547?v=4" width="100px;" alt=""/><br /><sub><b>Dasith Deelaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DasithDeelaka" title="Documentation">🤔📖</a></td>
+    <td align="center"><a href="https://dasithdeelaka.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/37569547?v=4" width="100px;" alt=""/><br /><sub><b>Dasith Deelaka</b></sub></a><br /><a href="https://github.com/DasithDeelaka/top-mobile-app-development-resources/commits?author=DasithDeelaka" title="Documentation">🤔📖</a></td>
+    <td align="center"><a href="https://github.com/buddhinijayasundara"><img src="https://avatars.githubusercontent.com/u/91739033?v=4" width="100px;" alt=""/><br /><sub><b>Buddhini Jayasundara</b></sub></a><br /><a href="https://github.com/DasithDeelaka/top-mobile-app-development-resources/commits?author=buddhinijayasundara" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/sachinijayasundara"><img src="https://avatars.githubusercontent.com/u/91739119?v=4" width="100px;" alt=""/><br /><sub><b>Sachini Jayasundara</b></sub></a><br /><a href="https://github.com/DasithDeelaka/top-mobile-app-development-resources/commits?author=sachinijayasundara" title="Documentation">📖</a></td>
   </tr>
 </table>
 
