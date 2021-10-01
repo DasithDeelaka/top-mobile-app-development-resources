@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "deelaka1019",
+      "name": "deelaka-1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57798902?v=4",
+      "profile": "https://github.com/deelaka1019",
+      "contributions": [
+        "doc",
+        "ideas",
+        "review",
+        "example"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "top-mobile-app-development-resources",
+  "projectOwner": "deelaka1019",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
