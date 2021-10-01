@@ -31,6 +31,7 @@ Top mobile application development resources that most of every developer needs.
 | Language or Technology  | Description |
 | ------------- | ------------- |
 | [React Native](https://reactnative.dev/)  |  React Native is an open-source UI software framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities.  |
+| [Ionic](https://ionicframework.com/)  |  An open source mobile toolkit for building high quality, cross-platform native and web app experiences. Move faster with a single code base, running everywhere with JavaScript and the Web.  |
 
 
 ## Other resources
