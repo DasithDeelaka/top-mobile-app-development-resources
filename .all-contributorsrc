@@ -16,6 +16,16 @@
         "review",
         "example"
       ]
+    },
+    {
+      "login": "DasithDeelaka",
+      "name": "Dasith Deelaka",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37569547?v=4",
+      "profile": "https://dasithdeelaka.netlify.app/",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
