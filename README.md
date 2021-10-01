@@ -28,7 +28,6 @@ Top mobile application development resources that most of every developer needs.
 |[Swift]( https://swift.org/)  | iOS developers design and build applications for mobile devices running Apple's iOS operating software. They are responsible for designing and coding the base application, ensuring the quality of the application, fixing application bugs, maintaining the code, and implementing application updates. As a Swift Developer you will be responsible for the development and maintenance of applications aimed towards iOS and OS X. You will oversee development of applications and their integration with back-end services.  |
 
 
-
 ## Cross-platform
 
 | Language or Technology  | Description |
