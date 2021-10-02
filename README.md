@@ -19,6 +19,7 @@ Top mobile application development resources that most of every developer needs.
 | Language or Technology  | Description |
 | ------------- | ------------- |
 | [Java-AndroidStudio](https://developer.android.com/studio)  |  You write Android apps in the Java programming language using an IDE called Android Studio. Based on JetBrains' IntelliJ IDEA software, Android Studio is an IDE designed specifically for Android development. The fastest developer tools for building market-leading apps and accelerating performance. Android Studio will help you develop your app in a more productive way at scale. Build rich experiences. Code with confidence. Create connected apps. Eliminate tiresome tasks.  |
+| [Kotlin](https://kotlinlang.org/) | Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. |
 
 
 ## IOS
