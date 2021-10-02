@@ -27,7 +27,6 @@ Top mobile application development resources that most of every developer needs.
 | ------------- | ------------- |
 |[Swift]( https://swift.org/)  | iOS developers design and build applications for mobile devices running Apple's iOS operating software. They are responsible for designing and coding the base application, ensuring the quality of the application, fixing application bugs, maintaining the code, and implementing application updates. As a Swift Developer you will be responsible for the development and maintenance of applications aimed towards iOS and OS X. You will oversee development of applications and their integration with back-end services.  |
 |[Object-C]( https://developer.apple.com/) |Objective-C is a general-purpose, object-oriented programming language and objective-C is the primary programming language you use when writing software for OS X and iOS. that adds Smalltalk-style messaging to the C programming language. Originally developed by Brad Cox and Tom Love in the early 1980s.Objective-C is the primary programming language you use when writing software for OS X and iOS. It's a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime. |
-| [Kotlin](https://kotlinlang.org/) | Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. |
 
 
 
