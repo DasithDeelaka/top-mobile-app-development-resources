@@ -1,7 +1,7 @@
 # top-mobile-app-development-resources
 Top mobile application development resources that most of every developer needs.
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./CONTRIBUTING.md)
@@ -67,6 +67,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/buddhinijayasundara"><img src="https://avatars.githubusercontent.com/u/91739033?v=4" width="100px;" alt=""/><br /><sub><b>Buddhini Jayasundara</b></sub></a><br /><a href="https://github.com/DasithDeelaka/top-mobile-app-development-resources/commits?author=buddhinijayasundara" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/sachinijayasundara"><img src="https://avatars.githubusercontent.com/u/91739119?v=4" width="100px;" alt=""/><br /><sub><b>Sachini Jayasundara</b></sub></a><br /><a href="https://github.com/DasithDeelaka/top-mobile-app-development-resources/commits?author=sachinijayasundara" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/sachithsiriwardana/"><img src="https://avatars2.githubusercontent.com/u/40508640?v=4" width="100px;" alt=""/><br /><sub><b>Sachith</b></sub></a><br /><a href="https://github.com/DasithDeelaka/top-mobile-app-development-resources/commits?author=sachith-1" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ViduraRandika"><img src="https://avatars2.githubusercontent.com/u/56796456?v=4" width="100px;" alt=""/><br /><sub><b>ViduraRandika</b></sub></a><br /><a href="top-mobile-app-development-resources/commits?author=ViduraRandika" title="Documentation">📖</a>
   </tr>
   
 </table>
