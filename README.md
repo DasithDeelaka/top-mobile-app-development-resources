@@ -45,6 +45,7 @@ Top mobile application development resources that most of every developer needs.
 | [Kivy-Python framework](https://kivy.org/#home)  |  Kivy - Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. Kivy runs on Linux, Windows, OS X, Android, iOS, and Raspberry Pi. You can run the same code on all supported platforms.   |
 | [Felgo](https://kivy.org/#home)  |  Felgo is a native cross-platform application development SDK, based on the Qt framework. It is a free mobile app development software that supports apps for various platforms, including iOS, Android, desktop (Windows and Linux), and counting. Using a single codebase, you can create an application for different operating systems.   |
 | [Qt](https://www.qt.io/)  |  Qt’s cross-platform framework allows you to design, develop, and deploy mobile applications cost-effectively for different types of portable, handheld iOS, Android, and Windows devices. The free and open-source platform provides a comprehensive and conducive development environment for delivering excellent user experiences.  |
+| [Sencha Ext JS](https://www.sencha.com/products/extjs/)  | Sencha Ext JS uses an MVC-based JavaScript framework to create highly responsive mobile applications that can elevate customer satisfaction. It facilitates the rapid design, development, and management of cross-platform, data-intensive applications compatible with all Android, iOS, and Windows devices.  |
 
 
 ## Other resources
