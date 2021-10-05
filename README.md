@@ -40,7 +40,7 @@ Top mobile application development resources that most of every developer needs.
 | [Ionic](https://ionicframework.com/)  |  An open source mobile toolkit for building high quality, cross-platform native and web app experiences. Move faster with a single code base, running everywhere with JavaScript and the Web.  |
 | [NativeScript](https://nativescript.org/)  |  NativeScript is an open-source framework to develop mobile apps on the Apple iOS and Android platforms.  Empower JavaScriptwith native APIs. Liberate your development by using platform APIs directly without leaving of JavaScript.  |
 | [Cordova](https://cordova.apache.org/)  |  Apache Cordova is a mobile application development framework created by Nitobi.  Cordova wraps your HTML/JavaScript app into a native container which can access the device functions of several platforms. These functions are exposed via a unified JavaScript API, allowing you to easily write one set of code to target nearly every phone or tablet on the market today and publish to their app stores.  |
-
+|[Aurelia](https://aurelia.io/)|Aurelia is one of the great and powerful top hybrid mobile app frameworks which allows users to create components using vanilla JavaScript or TypeScript. The best framework for hybrid mobile app development, it supports an extensive online community with effortless coding and unmatched extensibility| 
 
 ## Other resources
 
