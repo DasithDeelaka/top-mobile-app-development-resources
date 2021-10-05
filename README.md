@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ViduraRandika"><img src="https://avatars2.githubusercontent.com/u/56796456?v=4" width="100px;" alt=""/><br /><sub><b>ViduraRandika</b></sub></a><br /><a href="https://github.com/ViduraRandika/top-mobile-app-development-resources/commits?author=ViduraRandika" title="Documentation">📖</a>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucifer955"><img src="https://avatars2.githubusercontent.com/u/37404014?v=4" width="100px;" alt=""/><br /><sub><b>Nadeera Hashan Kuruppu</b></sub></a><br /><a href="https://github.com/ViduraRandika/top-mobile-app-development-resources/commits?author=lucifer955" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/lucifer955"><img src="https://avatars2.githubusercontent.com/u/37404014?v=4" width="100px;" alt=""/><br /><sub><b>Nadeera Hashan Kuruppu</b></sub></a><br /><a href="https://github.com/lucifer955/top-mobile-app-development-resources/commits?author=lucifer955" title="Documentation">📖</a></td>
   </tr>
   
 </table>
