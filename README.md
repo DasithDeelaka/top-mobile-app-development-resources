@@ -1,7 +1,7 @@
 # top-mobile-app-development-resources
 Top mobile application development resources that most of every developer needs.
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./CONTRIBUTING.md)
@@ -48,7 +48,7 @@ Top mobile application development resources that most of every developer needs.
 | [Qt](https://www.qt.io/)  |  Qt’s cross-platform framework allows you to design, develop, and deploy mobile applications cost-effectively for different types of portable, handheld iOS, Android, and Windows devices. The free and open-source platform provides a comprehensive and conducive development environment for delivering excellent user experiences.  |
 | [Sencha Ext JS](https://www.sencha.com/products/extjs/)  | Sencha Ext JS uses an MVC-based JavaScript framework to create highly responsive mobile applications that can elevate customer satisfaction. It facilitates the rapid design, development, and management of cross-platform, data-intensive applications compatible with all Android, iOS, and Windows devices.  |
 | [C#](https://dotnet.microsoft.com/apps/aspnet/web-apps)  | The key to mobile C# development was creating the Xamarin platform for building Android and iOS apps. It uses Mono — an open-source implementation of the .NET platform that runs on all major operating systems.  |
-| [Appcelerator](https://hackernoon.com) | Appcelerator is a cross-platform mobile app development tool that gets your app ready faster by simplifying the whole process. It uses a single JavaScript code that lets you build native-like apps with cloud-like performance. Another benefit of an Appcelerator is its quality and usage for making apps for any device or operating system.|
+| [Appcelerator](https://www.appcelerator.org/) | Appcelerator is a cross-platform mobile app development tool that gets your app ready faster by simplifying the whole process. It uses a single JavaScript code that lets you build native-like apps with cloud-like performance. Another benefit of an Appcelerator is its quality and usage for making apps for any device or operating system.|
 
 ## Other resources
 
@@ -76,6 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/lucifer955"><img src="https://avatars2.githubusercontent.com/u/37404014?v=4" width="100px;" alt=""/><br /><sub><b>Nadeera Hashan Kuruppu</b></sub></a><br /><a href="https://github.com/lucifer955/top-mobile-app-development-resources/commits?author=lucifer955" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/DilshanUdawaththa/top-mobile-app-development-resources/commits?author=DilshanUdawaththa" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kavigayamini"><img src="https://avatars.githubusercontent.com/u/67574319?v=4" width="100px;" alt=""/><br /><sub><b>Kavindya Gayamini</b></sub></a><br /><a href="https://github.com/kavigayamini/top-mobile-app-development-resources/commits?author=kavigayamini" title="Documentation">📖</a></td>
   </tr>
   
 </table>
