@@ -47,6 +47,7 @@ Top mobile application development resources that most of every developer needs.
 | [Qt](https://www.qt.io/)  |  Qt’s cross-platform framework allows you to design, develop, and deploy mobile applications cost-effectively for different types of portable, handheld iOS, Android, and Windows devices. The free and open-source platform provides a comprehensive and conducive development environment for delivering excellent user experiences.  |
 | [Sencha Ext JS](https://www.sencha.com/products/extjs/)  | Sencha Ext JS uses an MVC-based JavaScript framework to create highly responsive mobile applications that can elevate customer satisfaction. It facilitates the rapid design, development, and management of cross-platform, data-intensive applications compatible with all Android, iOS, and Windows devices.  |
 | [C#](https://dotnet.microsoft.com/apps/aspnet/web-apps)  | The key to mobile C# development was creating the Xamarin platform for building Android and iOS apps. It uses Mono — an open-source implementation of the .NET platform that runs on all major operating systems.  |
+| [Appcelerator](https://hackernoon.com) | Appcelerator is a cross-platform mobile app development tool that gets your app ready faster by simplifying the whole process. It uses a single JavaScript code that lets you build native-like apps with cloud-like performance. Another benefit of an Appcelerator is its quality and usage for making apps for any device or operating system.|
 
 ## Other resources
 
