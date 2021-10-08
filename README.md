@@ -1,7 +1,7 @@
 # top-mobile-app-development-resources
 Top mobile application development resources that most of every developer needs.
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./CONTRIBUTING.md)
@@ -49,8 +49,8 @@ Top mobile application development resources that most of every developer needs.
 | [Sencha Ext JS](https://www.sencha.com/products/extjs/)  | Sencha Ext JS uses an MVC-based JavaScript framework to create highly responsive mobile applications that can elevate customer satisfaction. It facilitates the rapid design, development, and management of cross-platform, data-intensive applications compatible with all Android, iOS, and Windows devices.  |
 | [C#](https://dotnet.microsoft.com/apps/aspnet/web-apps)  | The key to mobile C# development was creating the Xamarin platform for building Android and iOS apps. It uses Mono — an open-source implementation of the .NET platform that runs on all major operating systems.  |
 | [Appcelerator](https://www.appcelerator.org/) | Appcelerator is a cross-platform mobile app development tool that gets your app ready faster by simplifying the whole process. It uses a single JavaScript code that lets you build native-like apps with cloud-like performance. Another benefit of an Appcelerator is its quality and usage for making apps for any device or operating system.|
+| [Xamarin](https://visualstudio.microsoft.com/xamarin/?ref=hackernoon.com) | Microsoft Visual Studio Xamarin allows you to build apps for different platforms such as Windows, iOS, and Android using a single .net code.The best part of the Xamarin cross-platform tool is that all the apps built on it look and feel like native apps, and this appears because it uses the native interfaces that work the same way a user wants to use them.With Xamarin mobile application development, you can give your app a platform-specific hardware boost to achieve performance similar to native apps. Also, most of your coding approx. 75% will be the same, regardless of the platform you’re building your mobile application. Xamarin works on a single code by identifying it and accelerates the process for cross-platform mobile app development.|
 | [Dart](https://dart.dev/) | Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks. It is an open-source, object-oriented, general-purpose programming language developed by Google in 2011. |
-
 
 ## Other resources
 
@@ -79,6 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/lucifer955"><img src="https://avatars2.githubusercontent.com/u/37404014?v=4" width="100px;" alt=""/><br /><sub><b>Nadeera Hashan Kuruppu</b></sub></a><br /><a href="https://github.com/lucifer955/top-mobile-app-development-resources/commits?author=lucifer955" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/DilshanUdawaththa/top-mobile-app-development-resources/commits?author=DilshanUdawaththa" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kavigayamini"><img src="https://avatars.githubusercontent.com/u/67574319?v=4" width="100px;" alt=""/><br /><sub><b>Kavindya Gayamini</b></sub></a><br /><a href="https://github.com/kavigayamini/top-mobile-app-development-resources/commits?author=kavigayamini" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Achira Isuru</b></sub></a><br /><a href="https://github.com/Achiraisuru/top-mobile-app-development-resources/commits?author=Achiraisuru" title="Documentation">📖</a></td>
   </tr>
   
 </table>
