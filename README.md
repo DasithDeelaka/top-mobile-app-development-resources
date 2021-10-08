@@ -49,6 +49,8 @@ Top mobile application development resources that most of every developer needs.
 | [Sencha Ext JS](https://www.sencha.com/products/extjs/)  | Sencha Ext JS uses an MVC-based JavaScript framework to create highly responsive mobile applications that can elevate customer satisfaction. It facilitates the rapid design, development, and management of cross-platform, data-intensive applications compatible with all Android, iOS, and Windows devices.  |
 | [C#](https://dotnet.microsoft.com/apps/aspnet/web-apps)  | The key to mobile C# development was creating the Xamarin platform for building Android and iOS apps. It uses Mono — an open-source implementation of the .NET platform that runs on all major operating systems.  |
 | [Appcelerator](https://www.appcelerator.org/) | Appcelerator is a cross-platform mobile app development tool that gets your app ready faster by simplifying the whole process. It uses a single JavaScript code that lets you build native-like apps with cloud-like performance. Another benefit of an Appcelerator is its quality and usage for making apps for any device or operating system.|
+| [Dart](https://dart.dev/) | Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks. It is an open-source, object-oriented, general-purpose programming language developed by Google in 2011. |
+
 
 ## Other resources
 
