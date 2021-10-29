@@ -1,7 +1,7 @@
 # top-mobile-app-development-resources
 Top mobile application development resources that most of every developer needs.
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./CONTRIBUTING.md)
@@ -81,6 +81,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/DilshanUdawaththa/top-mobile-app-development-resources/commits?author=DilshanUdawaththa" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kavigayamini"><img src="https://avatars.githubusercontent.com/u/67574319?v=4" width="100px;" alt=""/><br /><sub><b>Kavindya Gayamini</b></sub></a><br /><a href="https://github.com/kavigayamini/top-mobile-app-development-resources/commits?author=kavigayamini" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Achira Isuru</b></sub></a><br /><a href="https://github.com/Achiraisuru/top-mobile-app-development-resources/commits?author=Achiraisuru" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/IsuruSahan"><img src="https://avatars.githubusercontent.com/u/51040478?v=4" width="100px;" alt=""/><br /><sub><b>Isuru Sahan</b></sub></a><br /><a href="https://github.com/IsuruSahan/top-mobile-app-development-resources/commits?author=IsuruSahan" title="Documentation">📖</a></td>
   </tr>
   
 </table>
